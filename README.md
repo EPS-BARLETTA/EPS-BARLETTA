@@ -19,13 +19,18 @@ Parmi les usages explorés :
 - Organisation de groupes et de séances
 - Outils de saisie et de suivi adaptés aux usages sur le terrain
 
-## Projets sportifs et pédagogiques
+## Du ZENOS Tour à l'AEFE Tour
 
-Je suis **créateur du ZENOS Tour**, un projet sportif collectif né au Lycée Vauban et développé au sein du réseau de l'enseignement français à l'étranger.
+Pendant la pandémie de Covid-19, j'ai imaginé au **Lycée Vauban à Luxembourg** un défi sportif réunissant **neuf classes de sixième**. Les contraintes sanitaires empêchaient les élèves de se mélanger : l'idée était de leur permettre malgré tout de vivre une aventure collective, en représentant leur classe et en se mesurant à d'autres classes à distance.
 
-Je suis également **co-créateur de l'AEFE Tour**, qui prolonge et fait évoluer le ZENOS Tour à l'échelle du réseau AEFE.
+Cette initiative a progressivement changé d'échelle :
 
-Ces projets prolongent une même démarche : favoriser la participation, le collectif et l'engagement des élèves et des communautés éducatives.
+1. **Au Lycée Vauban** : un défi entre classes, sans brassage des élèves.
+2. **Dans la zone ZENOS** : le projet s'ouvre à d'autres établissements de la zone.
+3. **À la communauté éducative** : familles et personnels sont invités à participer aux côtés des élèves.
+4. **À l'échelle mondiale** : le concept évolue vers l'**AEFE Tour**, mobilisant les **16 zones du réseau AEFE**, soit un réseau d'environ **400 000 élèves potentiellement concernés**, ainsi que leurs communautés éducatives.
+
+Je suis **créateur du ZENOS Tour** et **co-créateur de l'AEFE Tour**, prolongement international de cette initiative née sur le terrain.
 
 ## Ma démarche
 
