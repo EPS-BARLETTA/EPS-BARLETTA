@@ -4,13 +4,13 @@
 
 Professeur d'éducation physique et sportive au **Lycée Vauban à Luxembourg**, je conçois et développe des applications web à partir des besoins concrets rencontrés dans mon enseignement.
 
-Mon objectif : proposer des outils simples, accessibles et utiles sur le terrain, au service des apprentissages, de l'observation, de l'évaluation et de l'organisation des séances.
+Mon objectif : **faciliter le travail des enseignants d'EPS et permettre aux élèves de progresser**, grâce à des outils simples, accessibles et utiles sur le terrain, au service des apprentissages, de l'observation, de l'évaluation et de l'organisation des séances.
 
-## EPS-BARLETTA — Mes outils
+## EPS-BARLETTA — Applications et outils numériques pour les professeurs d'EPS
 
 **[Découvrir le catalogue des applications pédagogiques](https://eps-barletta.github.io/EPS-BARLETTA-mes-outils/index.html)**
 
-Les applications sont mises à disposition gratuitement des enseignants et des élèves. Elles évoluent grâce à leur utilisation en cours, aux expérimentations et aux retours des utilisateurs.
+Ces applications EPS gratuites sont destinées aux enseignants d'éducation physique et sportive et à leurs élèves. Elles évoluent grâce à leur utilisation en cours, aux expérimentations et aux retours des utilisateurs.
 
 Parmi les usages explorés :
 - Chronométrage et suivi des performances en demi-fond
