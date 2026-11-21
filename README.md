@@ -21,7 +21,9 @@ Parmi les usages explorés :
 
 ## Projets sportifs et pédagogiques
 
-Je suis également **co-créateur du ZENOS Tour**, un projet sportif collectif développé dans le réseau de l'enseignement français à l'étranger et associé à la dynamique de l'**AEFE Tour**.
+Je suis **créateur du ZENOS Tour**, un projet sportif collectif né au Lycée Vauban et développé au sein du réseau de l'enseignement français à l'étranger.
+
+Je suis également **co-créateur de l'AEFE Tour**, qui prolonge et fait évoluer le ZENOS Tour à l'échelle du réseau AEFE.
 
 Ces projets prolongent une même démarche : favoriser la participation, le collectif et l'engagement des élèves et des communautés éducatives.
 
